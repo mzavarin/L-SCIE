@@ -6,5 +6,7 @@ data.csv = l-scie data file
 dataset.csv = l-scie dataset file
 mineral-ref = l-scie mineral data file
 sc.dataset.csv = transformed unified l-scie database output
+sc.dataset.zip = zipped transformed unified l-scie database output
+merged_lscie_jaea.zip = zipped transformed unified l-scie database output merged with JAEA database
 server.r = R code that performs data transformation of l-scie files
 ui.r = R code that, in combination with server.r produces a gui that is used to perform data transformation of l-scie files
