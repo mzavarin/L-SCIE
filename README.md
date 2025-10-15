@@ -11,7 +11,7 @@ jaea extraction test publish.zip = data and code used to convert JAEA database t
 l-scie_jaea_merge.zip = data and code used to merge l-scie and jaea databases  
 lscie.zip = zipped transformed unified l-scie database output  
 jaea.zip = zipped transformed unified jaea database output  
-merged_lscie_jaea.zip = zipped transformed unified l-scie database output merged with JAEA database 
+merged_lscie_jaea.zip = zipped transformed unified l-scie database output merged with JAEA database  
 Please use the following reference when using these data:  
 Zavarin, M., Chang, E., Wainwright, H., Parham, N., Kaukuntla, R., Zouabe, J., Deinhart, A., Genetti, V., Shipman, S., Bok, F., and Brendler, V. 2022. A Community Data Mining Approach for Surface Complexation Database Development, Env. Sci. Technol.. 56 (4), 2827-2838. https://doi.org/10.1021/acs.est.1c07109.  
 
