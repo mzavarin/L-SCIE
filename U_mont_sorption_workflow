@@ -1,6 +1,0 @@
-Files used for 'Application of Large Community Sorption Datasets to Surface Complexation and Ion Exchange Model Development: Uranium Sorption to Montmorillonite'.
-
-- scsubsetfilt.csv : Excel file of community data that informed model parameter development
-- mont_gen_conditions_and_csv_file : Jupyter Notebook to convert L-SCIE U-mont csv data into CrunchFlow-compatible template
-- mont_plotbb05_final : Jupyter Notebook used to plot modeled vs experimental sorption results from CrunchFlow-PEST optimization
-- DBS.txt, firstdbs.tpt, CrunchTope, PEST.exe : Examples of CrunchFlow database and template database for reaction constant optimization done with PEST
